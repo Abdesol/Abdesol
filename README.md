@@ -1,4 +1,7 @@
 ### Hi there 👋
+### My Name is Abdella Solomon
+### I am a Programmer From Ethiopia
+
 
 <!--
 **Abdesol/Abdesol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
