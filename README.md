@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 ### My Name is Abdella Solomon
 ### I am a Programmer From Ethiopia
 
-# check out my website http://abdesportfolio.me/
+### check out my website http://abdesportfolio.me/
 
 
 <!--
