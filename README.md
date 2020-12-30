@@ -3,6 +3,7 @@
 ### I am a Programmer From Ethiopia
 
 ### check out my website http://abdesportfolio.me/
+### If you need to hire me on some programming jobs go check my Fiverr https://www.fiverr.com/share/YeLpVN
 
 
 <!--
