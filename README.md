@@ -1,10 +1,6 @@
 ## Hi there 👋
 ### My Name is Abdella Solomon
 ### I am a Programmer From Ethiopia
-
-### If you need to hire me on some programming jobs go check my Fiverr https://www.fiverr.com/users/abdthecoder/
-
-
 <!--
 **Abdesol/Abdesol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
