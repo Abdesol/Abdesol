@@ -10,4 +10,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...C#
 - 👯 I’m looking to collaborate on ...open source project
 - 💬 Ask me about ...PyQt5 and Socket programming.
+- Contact me through my email abdesoltak@gmail.com
 
