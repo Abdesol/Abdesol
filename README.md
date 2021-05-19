@@ -1,13 +1,11 @@
 ## Hi there 👋
-### My Name is Abdella Solomon
-### I am a Programmer From Ethiopia
 
-**Abdesol/Abdesol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is Abdella Solomon. I am 15 years old. I am a 9th grade student. I live in Addis Ababa, Ethiopia.
+I am a python and C# programmer. I know pyqt5 and network programming from python and xamarin from C#.
+To know more about me check out my portfolio website at https://abdesol.me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...My school website
-- 🌱 I’m currently learning ...C#
+- 🔭 I’m currently working on ... Xamarin Projects
+- 🌱 I’m currently learning ...C#(Xamarin)
 - 👯 I’m looking to collaborate on ...open source project
 - 💬 Ask me about ...PyQt5 and Socket programming.
 - Contact me through my email abdesoltak@gmail.com
