@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My Name is Abdella Solomon. I am 16 years old. I live in Addis Ababa, Ethiopia.
-I am a python and C# programmer. I know pyqt5 and network programming from python and xamarin from C#.
+I am a python and C# programmer. I know pyqt5 and network programming from python and, xamarin and WPF from C#.
 To know more about me check out my portfolio website at https://abdesol.me
 
 - 🔭 I’m currently working on ... CutCode app
