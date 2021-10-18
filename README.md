@@ -24,5 +24,3 @@ I am a python and C# programmer. Check out my portfolio website at https://abdes
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=abdesol&color=lightgrey" alt="watching_count" />
 </p>
-
-![5754350]()
