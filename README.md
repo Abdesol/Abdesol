@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My Name is Abdella Solomon. I am 16 years old. I live in Addis Ababa, Ethiopia.
+My Name is Abdella Solomon. I am 17 years old. I live in Addis Ababa, Ethiopia.
 I am a python and C# programmer. Check out my portfolio website at https://abdesol.me and my articles at https://abdesol.medium.com/
 
 - I am currently learning machine learning.
