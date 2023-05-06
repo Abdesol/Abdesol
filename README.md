@@ -1,13 +1,6 @@
 ## Hi there 👋
 
-My Name is Abdella Solomon. I am 17 years old. I live in Addis Ababa, Ethiopia.
-I am a python and C# programmer. Check out my portfolio website at https://abdesol.me and my articles at https://abdesol.medium.com/
-
-- I am currently learning machine learning.
-- Ask me about C#, Avalonia, WPF, Xamarin, Python, Socket/Network Programming,...
-- I am currently working on Fiverr.
-- I am looking to collaborate on opensource projects.
-- Contact me through my email abdesoltak@gmail.com
+My Name is Abdella Solomon. Check out my website https://abdesol.me and my articles at https://abdesol.medium.com/
 
 ### Stats
 ![Abdella's Github Stats](https://github-readme-stats.vercel.app/api?username=abdesol&theme=vue-dark&show_icons=true)
